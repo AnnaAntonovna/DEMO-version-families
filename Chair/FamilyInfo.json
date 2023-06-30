@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 0,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\AluminiumChair_EA105.png",
+    "Name": "AluminiumChair_EA105",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\AluminiumChair_EA105.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\AluminiumChair_EA105.ifc"
+  },
+  {
+    "Id": 1,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\Eames_PlasticArmchair_DAX.png",
+    "Name": "Eames_PlasticArmchair_DAX",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\Eames_PlasticArmchair_DAX.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\Eames_PlasticArmchair_DAX.ifc"
+  },
+  {
+    "Id": 2,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_Knoll_Muuto_Fiber_Stool.png",
+    "Name": "FU.CH_Knoll_Muuto_Fiber_Stool",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_Knoll_Muuto_Fiber_Stool.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_Knoll_Muuto_Fiber_Stool.ifc"
+  },
+  {
+    "Id": 3,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_MeetingChair_Unix_Five-star.png",
+    "Name": "FU.CH_MeetingChair_Unix_Five-star",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_MeetingChair_Unix_Five-star.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_MeetingChair_Unix_Five-star.ifc"
+  },
+  {
+    "Id": 4,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_OfficeChair.png",
+    "Name": "FU.CH_OfficeChair",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_OfficeChair.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Chair\\FU.CH_OfficeChair.ifc"
+  }
+]

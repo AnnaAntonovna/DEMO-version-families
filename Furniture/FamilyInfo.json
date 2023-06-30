@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 0,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FS.OF_MeetingRoom.png",
+    "Name": "FS.OF_MeetingRoom",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FS.OF_MeetingRoom.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FS.OF_MeetingRoom.ifc"
+  },
+  {
+    "Id": 1,
+    "Category": "Furniture Systems",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FS.OF_Workstation.png",
+    "Name": "FS.OF_Workstation",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FS.OF_Workstation.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FS.OF_Workstation.ifc"
+  },
+  {
+    "Id": 2,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FU.MT_Shallow table_3D.png",
+    "Name": "FU.MT_Shallow table_3D",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FU.MT_Shallow table_3D.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FU.MT_Shallow table_3D.ifc"
+  },
+  {
+    "Id": 3,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FU.TB_Tavolo tondo_3D.png",
+    "Name": "FU.TB_Tavolo tondo_3D",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FU.TB_Tavolo tondo_3D.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\FU.TB_Tavolo tondo_3D.ifc"
+  },
+  {
+    "Id": 4,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\Knoll_Muuto_Outline_Sofa.png",
+    "Name": "Knoll_Muuto_Outline_Sofa",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\Knoll_Muuto_Outline_Sofa.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\Knoll_Muuto_Outline_Sofa.ifc"
+  },
+  {
+    "Id": 5,
+    "Category": "Furniture",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\Knoll_Muuto_Relate_Table.png",
+    "Name": "Knoll_Muuto_Relate_Table",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\Knoll_Muuto_Relate_Table.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Furniture\\Knoll_Muuto_Relate_Table.ifc"
+  }
+]

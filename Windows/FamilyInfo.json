@@ -1,0 +1,47 @@
+[
+  {
+    "Id": 0,
+    "Category": "Windows",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_DS.png",
+    "Name": "WN_DS",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_DS.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_DS.ifc"
+  },
+  {
+    "Id": 1,
+    "Category": "Windows",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_DS_SlidingFixedPanel.png",
+    "Name": "WN_DS_SlidingFixedPanel",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_DS_SlidingFixedPanel.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_DS_SlidingFixedPanel.ifc"
+  },
+  {
+    "Id": 2,
+    "Category": "Windows",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_HS_ThreePanels_FixedPanel.png",
+    "Name": "WN_HS_ThreePanels_FixedPanel",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_HS_ThreePanels_FixedPanel.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_HS_ThreePanels_FixedPanel.ifc"
+  },
+  {
+    "Id": 3,
+    "Category": "Windows",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_VS.png",
+    "Name": "WN_VS",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_VS.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_VS.ifc"
+  },
+  {
+    "Id": 4,
+    "Category": "Windows",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_VS_FivePanels.png",
+    "Name": "WN_VS_FivePanels",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_VS_FivePanels.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Windows\\WN_VS_FivePanels.ifc"
+  }
+]
