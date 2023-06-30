@@ -3,7 +3,7 @@
     "Id": 0,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/AluminiumChair_EA105.png",
+    "ImagePath": "./Chair/AluminiumChair_EA105.png",
     "Name": "AluminiumChair_EA105",
     "FilePath": "../../../Chair/AluminiumChair_EA105.rfa",
     "IFCFilePath": "../../../Chair/AluminiumChair_EA105.ifc"
@@ -12,7 +12,7 @@
     "Id": 1,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/Eames_PlasticArmchair_DAX.png",
+    "ImagePath": "./Chair/Eames_PlasticArmchair_DAX.png",
     "Name": "Eames_PlasticArmchair_DAX",
     "FilePath": "../../../Chair/Eames_PlasticArmchair_DAX.rfa",
     "IFCFilePath": "../../../Chair/Eames_PlasticArmchair_DAX.ifc"
@@ -21,7 +21,7 @@
     "Id": 2,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/FU.CH_Knoll_Muuto_Fiber_Stool.png",
+    "ImagePath": "./Chair/FU.CH_Knoll_Muuto_Fiber_Stool.png",
     "Name": "FU.CH_Knoll_Muuto_Fiber_Stool",
     "FilePath": "../../../Chair/FU.CH_Knoll_Muuto_Fiber_Stool.rfa",
     "IFCFilePath": "../../../Chair/FU.CH_Knoll_Muuto_Fiber_Stool.ifc"
@@ -30,7 +30,7 @@
     "Id": 3,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/FU.CH_MeetingChair_Unix_Five-star.png",
+    "ImagePath": "./Chair/FU.CH_MeetingChair_Unix_Five-star.png",
     "Name": "FU.CH_MeetingChair_Unix_Five-star",
     "FilePath": "../../../Chair/FU.CH_MeetingChair_Unix_Five-star.rfa",
     "IFCFilePath": "../../../Chair/FU.CH_MeetingChair_Unix_Five-star.ifc"
@@ -39,7 +39,7 @@
     "Id": 4,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "DEMO-version-families/Chair/FU.CH_OfficeChair.png",
+    "ImagePath": "./Chair/FU.CH_OfficeChair.png",
     "Name": "FU.CH_OfficeChair",
     "FilePath": "../../../Chair/FU.CH_OfficeChair.rfa",
     "IFCFilePath": "../../../Chair/FU.CH_OfficeChair.ifc"
@@ -48,7 +48,7 @@
     "Id": 0,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "DEMO-version-families/Furniture/FS.OF_MeetingRoom.png",
+    "ImagePath": "./Furniture/FS.OF_MeetingRoom.png",
     "Name": "FS.OF_MeetingRoom",
     "FilePath": "../../../Furniture/FS.OF_MeetingRoom.rfa",
     "IFCFilePath": "../../../Furniture/FS.OF_MeetingRoom.ifc"
@@ -57,7 +57,7 @@
     "Id": 1,
     "Category": "Furniture Systems",
     "Version": "2021",
-    "ImagePath": "DEMO-version-families/Furniture/FS.OF_Workstation.png",
+    "ImagePath": "./Furniture/FS.OF_Workstation.png",
     "Name": "FS.OF_Workstation",
     "FilePath": "../../../Furniture/FS.OF_Workstation.rfa",
     "IFCFilePath": "../../../Furniture/FS.OF_Workstation.ifc"
@@ -66,7 +66,7 @@
     "Id": 2,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "DEMO-version-families/Furniture/FU.MT_Shallow table_3D.png",
+    "ImagePath": "./Furniture/FU.MT_Shallow table_3D.png",
     "Name": "FU.MT_Shallow table_3D",
     "FilePath": "../../../Furniture/FU.MT_Shallow table_3D.rfa",
     "IFCFilePath": "../../../Furniture/FU.MT_Shallow table_3D.ifc"
@@ -75,7 +75,7 @@
     "Id": 3,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Furniture/FU.TB_Tavolo tondo_3D.png",
+    "ImagePath": "./Furniture/FU.TB_Tavolo tondo_3D.png",
     "Name": "FU.TB_Tavolo tondo_3D",
     "FilePath": "../../../Furniture/FU.TB_Tavolo tondo_3D.rfa",
     "IFCFilePath": "../../../Furniture/FU.TB_Tavolo tondo_3D.ifc"
@@ -84,7 +84,7 @@
     "Id": 4,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Furniture/Knoll_Muuto_Outline_Sofa.png",
+    "ImagePath": "./Furniture/Knoll_Muuto_Outline_Sofa.png",
     "Name": "Knoll_Muuto_Outline_Sofa",
     "FilePath": "../../../Furniture/Knoll_Muuto_Outline_Sofa.rfa",
     "IFCFilePath": "../../../Furniture/Knoll_Muuto_Outline_Sofa.ifc"
@@ -93,7 +93,7 @@
     "Id": 5,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Furniture/Knoll_Muuto_Relate_Table.png",
+    "ImagePath": "./Furniture/Knoll_Muuto_Relate_Table.png",
     "Name": "Knoll_Muuto_Relate_Table",
     "FilePath": "../../../Furniture/Knoll_Muuto_Relate_Table.rfa",
     "IFCFilePath": "../../../Furniture/Knoll_Muuto_Relate_Table.ifc"
@@ -102,7 +102,7 @@
     "Id": 0,
     "Category": "Windows",
     "Version": "2021",
-    "ImagePath": "../../../Windows/WN_DS.png",
+    "ImagePath": "./Windows/WN_DS.png",
     "Name": "WN_DS",
     "FilePath": "../../../Windows/WN_DS.rfa",
     "IFCFilePath": "../../../Windows/WN_DS.ifc"
@@ -111,7 +111,7 @@
     "Id": 1,
     "Category": "Windows",
     "Version": "2021",
-    "ImagePath": "../../../Windows/WN_DS_SlidingFixedPanel.png",
+    "ImagePath": "./Windows/WN_DS_SlidingFixedPanel.png",
     "Name": "WN_DS_SlidingFixedPanel",
     "FilePath": "../../../Windows/WN_DS_SlidingFixedPanel.rfa",
     "IFCFilePath": "../../../Windows/WN_DS_SlidingFixedPanel.ifc"
@@ -120,7 +120,7 @@
     "Id": 2,
     "Category": "Windows",
     "Version": "2021",
-    "ImagePath": "../../../Windows/WN_HS_ThreePanels_FixedPanel.png",
+    "ImagePath": "./Windows/WN_HS_ThreePanels_FixedPanel.png",
     "Name": "WN_HS_ThreePanels_FixedPanel",
     "FilePath": "../../../Windows/WN_HS_ThreePanels_FixedPanel.rfa",
     "IFCFilePath": "../../../Windows/WN_HS_ThreePanels_FixedPanel.ifc"
@@ -148,7 +148,7 @@
     "Id": 0,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "/Doors/CP-DR_1HI_Hinged Door.png",
+    "ImagePath": "./Doors/CP-DR_1HI_Hinged Door.png",
     "Name": "CP-DR_1HI_Hinged Door",
     "FilePath": "../../../Doors/CP-DR_1HI_Hinged Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_1HI_Hinged Door.ifc"
@@ -157,7 +157,7 @@
     "Id": 1,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "/Doors/CP-DR_1PI_Pivot Door.png",
+    "ImagePath": "./Doors/CP-DR_1PI_Pivot Door.png",
     "Name": "CP-DR_1PI_Pivot Door",
     "FilePath": "../../../Doors/CP-DR_1PI_Pivot Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_1PI_Pivot Door.ifc"
@@ -166,7 +166,7 @@
     "Id": 2,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/CP-DR_1SL_Sliding Door.png",
+    "ImagePath": "./Doors/CP-DR_1SL_Sliding Door.png",
     "Name": "CP-DR_1SL_Sliding Door",
     "FilePath": "../../../Doors/CP-DR_1SL_Sliding Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_1SL_Sliding Door.ifc"
@@ -175,7 +175,7 @@
     "Id": 3,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/CP-DR_2HI_Hinged Door.png",
+    "ImagePath": "./Doors/CP-DR_2HI_Hinged Door.png",
     "Name": "CP-DR_2HI_Hinged Door",
     "FilePath": "../../../Doors/CP-DR_2HI_Hinged Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_2HI_Hinged Door.ifc"
@@ -184,7 +184,7 @@
     "Id": 4,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/CP-DR_2PI_Pivot Door.png",
+    "ImagePath": "./Doors/CP-DR_2PI_Pivot Door.png",
     "Name": "CP-DR_2PI_Pivot Door",
     "FilePath": "../../../Doors/CP-DR_2PI_Pivot Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_2PI_Pivot Door.ifc"
@@ -193,7 +193,7 @@
     "Id": 5,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/CP-DR_2SL_Sliding Door.png",
+    "ImagePath": "./Doors/CP-DR_2SL_Sliding Door.png",
     "Name": "CP-DR_2SL_Sliding Door",
     "FilePath": "../../../Doors/CP-DR_2SL_Sliding Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_2SL_Sliding Door.ifc"
@@ -202,7 +202,7 @@
     "Id": 6,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/CP.DR_1HI_Hinged Door.png",
+    "ImagePath": ".//Doors/CP.DR_1HI_Hinged Door.png",
     "Name": "CP.DR_1HI_Hinged Door",
     "FilePath": "../../../Doors/CP.DR_1HI_Hinged Door.rfa",
     "IFCFilePath": "../../../Doors/CP.DR_1HI_Hinged Door.ifc"
@@ -211,7 +211,7 @@
     "Id": 7,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/CP.DR_2PI_Pivot Door.png",
+    "ImagePath": "./Doors/CP.DR_2PI_Pivot Door.png",
     "Name": "CP.DR_2PI_Pivot Door",
     "FilePath": "../../../Doors/CP.DR_2PI_Pivot Door.rfa",
     "IFCFilePath": "../../../Doors/CP.DR_2PI_Pivot Door.ifc"
@@ -220,7 +220,7 @@
     "Id": 8,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_1HI_Hinger Door.png",
+    "ImagePath": "./Doors/DR_1HI_Hinger Door.png",
     "Name": "DR_1HI_Hinger Door",
     "FilePath": "../../../Doors/DR_1HI_Hinger Door.rfa",
     "IFCFilePath": "../../../Doors/DR_1HI_Hinger Door.ifc"
@@ -229,7 +229,7 @@
     "Id": 9,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_1PI_Pivot Door.png",
+    "ImagePath": "./Doors/DR_1PI_Pivot Door.png",
     "Name": "DR_1PI_Pivot Door",
     "FilePath": "../../../Doors/DR_1PI_Pivot Door.rfa",
     "IFCFilePath": "../../../Doors/DR_1PI_Pivot Door.ifc"
@@ -238,7 +238,7 @@
     "Id": 10,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_1SL_Sliding Door.png",
+    "ImagePath": "./Doors/DR_1SL_Sliding Door.png",
     "Name": "DR_1SL_Sliding Door",
     "FilePath": "../../../Doors/DR_1SL_Sliding Door.rfa",
     "IFCFilePath": "../../../Doors/DR_1SL_Sliding Door.ifc"
@@ -247,7 +247,7 @@
     "Id": 11,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_1UO_UpOver Door.png",
+    "ImagePath": "./Doors/DR_1UO_UpOver Door.png",
     "Name": "DR_1UO_UpOver Door",
     "FilePath": "../../../Doors/DR_1UO_UpOver Door.rfa",
     "IFCFilePath": "../../../Doors/DR_1UO_UpOver Door.ifc"
@@ -256,7 +256,7 @@
     "Id": 12,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_2HI_Hinger Door.png",
+    "ImagePath": "./Doors/DR_2HI_Hinger Door.png",
     "Name": "DR_2HI_Hinger Door",
     "FilePath": "../../../Doors/DR_2HI_Hinger Door.rfa",
     "IFCFilePath": "../../../Doors/DR_2HI_Hinger Door.ifc"
@@ -265,7 +265,7 @@
     "Id": 13,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_2PI_Pivot Door.png",
+    "ImagePath": "./Doors/DR_2PI_Pivot Door.png",
     "Name": "DR_2PI_Pivot Door",
     "FilePath": "../../../Doors/DR_2PI_Pivot Door.rfa",
     "IFCFilePath": "../../../Doors/DR_2PI_Pivot Door.ifc"
@@ -274,7 +274,7 @@
     "Id": 14,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_2SL_Elevator Sliding Door.png",
+    "ImagePath": "./Doors/DR_2SL_Elevator Sliding Door.png",
     "Name": "DR_2SL_Elevator Sliding Door",
     "FilePath": "../../../Doors/DR_2SL_Elevator Sliding Door.rfa",
     "IFCFilePath": "../../../Doors/DR_2SL_Elevator Sliding Door.ifc"
@@ -283,7 +283,7 @@
     "Id": 15,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_2SL_Sliding Door.png",
+    "ImagePath": "./Doors/DR_2SL_Sliding Door.png",
     "Name": "DR_2SL_Sliding Door",
     "FilePath": "../../../Doors/DR_2SL_Sliding Door.rfa",
     "IFCFilePath": "../../../Doors/DR_2SL_Sliding Door.ifc"
@@ -292,7 +292,7 @@
     "Id": 16,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_4RE_Revolving Door.png",
+    "ImagePath": "./Doors/DR_4RE_Revolving Door.png",
     "Name": "DR_4RE_Revolving Door",
     "FilePath": "../../../Doors/DR_4RE_Revolving Door.rfa",
     "IFCFilePath": "../../../Doors/DR_4RE_Revolving Door.ifc"
@@ -301,7 +301,7 @@
     "Id": 17,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/DR_Void.png",
+    "ImagePath": "./Doors/DR_Void.png",
     "Name": "DR_Void",
     "FilePath": "../../../Doors/DR_Void.rfa",
     "IFCFilePath": "../../../Doors/DR_Void.ifc"
