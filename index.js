@@ -123,10 +123,10 @@ fetch("FamilesInfo.json")
 
     pageDoc.body.append(viewerContainer);
 
-    const viewer = new IfcViewerAPI({ viewerContainer, backgroundColor: new Color(0xffafff) });
+    //const viewer = new IfcViewerAPI({ viewerContainer, backgroundColor: new Color(0xffafff) });
 
-    viewer.grid.setGrid();
-    viewer.axes.setAxes();
+    //viewer.grid.setGrid();
+    //viewer.axes.setAxes();
 
     //pageDoc.body.appendChild(viewer);
 
