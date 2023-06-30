@@ -3,7 +3,7 @@
     "Id": 0,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/AluminiumChair_EA105.png",
+    "ImagePath": "DEMO-version-families/Chair/AluminiumChair_EA105.png",
     "Name": "AluminiumChair_EA105",
     "FilePath": "../../../Chair/AluminiumChair_EA105.rfa",
     "IFCFilePath": "../../../Chair/AluminiumChair_EA105.ifc"
@@ -12,7 +12,7 @@
     "Id": 1,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/Eames_PlasticArmchair_DAX.png",
+    "ImagePath": "DEMO-version-families/Chair/Eames_PlasticArmchair_DAX.png",
     "Name": "Eames_PlasticArmchair_DAX",
     "FilePath": "../../../Chair/Eames_PlasticArmchair_DAX.rfa",
     "IFCFilePath": "../../../Chair/Eames_PlasticArmchair_DAX.ifc"
@@ -21,7 +21,7 @@
     "Id": 2,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/FU.CH_Knoll_Muuto_Fiber_Stool.png",
+    "ImagePath": "DEMO-version-families/Chair/FU.CH_Knoll_Muuto_Fiber_Stool.png",
     "Name": "FU.CH_Knoll_Muuto_Fiber_Stool",
     "FilePath": "../../../Chair/FU.CH_Knoll_Muuto_Fiber_Stool.rfa",
     "IFCFilePath": "../../../Chair/FU.CH_Knoll_Muuto_Fiber_Stool.ifc"
@@ -30,7 +30,7 @@
     "Id": 3,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/FU.CH_MeetingChair_Unix_Five-star.png",
+    "ImagePath": "DEMO-version-families/Chair/FU.CH_MeetingChair_Unix_Five-star.png",
     "Name": "FU.CH_MeetingChair_Unix_Five-star",
     "FilePath": "../../../Chair/FU.CH_MeetingChair_Unix_Five-star.rfa",
     "IFCFilePath": "../../../Chair/FU.CH_MeetingChair_Unix_Five-star.ifc"
@@ -39,7 +39,7 @@
     "Id": 4,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Chair/FU.CH_OfficeChair.png",
+    "ImagePath": "DEMO-version-families/Chair/FU.CH_OfficeChair.png",
     "Name": "FU.CH_OfficeChair",
     "FilePath": "../../../Chair/FU.CH_OfficeChair.rfa",
     "IFCFilePath": "../../../Chair/FU.CH_OfficeChair.ifc"
@@ -48,7 +48,7 @@
     "Id": 0,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Furniture/FS.OF_MeetingRoom.png",
+    "ImagePath": "DEMO-version-families/Furniture/FS.OF_MeetingRoom.png",
     "Name": "FS.OF_MeetingRoom",
     "FilePath": "../../../Furniture/FS.OF_MeetingRoom.rfa",
     "IFCFilePath": "../../../Furniture/FS.OF_MeetingRoom.ifc"
@@ -57,7 +57,7 @@
     "Id": 1,
     "Category": "Furniture Systems",
     "Version": "2021",
-    "ImagePath": "../../../Furniture/FS.OF_Workstation.png",
+    "ImagePath": "DEMO-version-families/Furniture/FS.OF_Workstation.png",
     "Name": "FS.OF_Workstation",
     "FilePath": "../../../Furniture/FS.OF_Workstation.rfa",
     "IFCFilePath": "../../../Furniture/FS.OF_Workstation.ifc"
@@ -66,7 +66,7 @@
     "Id": 2,
     "Category": "Furniture",
     "Version": "2021",
-    "ImagePath": "../../../Furniture/FU.MT_Shallow table_3D.png",
+    "ImagePath": "DEMO-version-families/Furniture/FU.MT_Shallow table_3D.png",
     "Name": "FU.MT_Shallow table_3D",
     "FilePath": "../../../Furniture/FU.MT_Shallow table_3D.rfa",
     "IFCFilePath": "../../../Furniture/FU.MT_Shallow table_3D.ifc"
@@ -148,7 +148,7 @@
     "Id": 0,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "./Doors/CP-DR_1HI_Hinged Door.png",
+    "ImagePath": "/Doors/CP-DR_1HI_Hinged Door.png",
     "Name": "CP-DR_1HI_Hinged Door",
     "FilePath": "../../../Doors/CP-DR_1HI_Hinged Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_1HI_Hinged Door.ifc"
@@ -157,7 +157,7 @@
     "Id": 1,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "./Doors/CP-DR_1PI_Pivot Door.png",
+    "ImagePath": "/Doors/CP-DR_1PI_Pivot Door.png",
     "Name": "CP-DR_1PI_Pivot Door",
     "FilePath": "../../../Doors/CP-DR_1PI_Pivot Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_1PI_Pivot Door.ifc"
