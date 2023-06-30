@@ -1,0 +1,225 @@
+*{
+    margin: 0;
+    cursor:url(1.png), auto;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: var(--light-color);
+    border-radius: 5px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.header{
+  width: 30%;
+}
+nav{
+  margin: auto;
+  display: flex;
+  align-self: center;
+  align-items:center;
+  text-align: center;
+  height: auto;
+  background-color: var(--secondary-color);
+  padding: 0.5rem;
+  margin-bottom: 0px;
+
+}
+
+.headerinfo{
+  height: 55px;
+  text-align: center;
+  border-color: var(--bright-color);
+  border-radius: 3px;
+  border-width: 2px;
+  color: var(--bright-color);
+  background-color: var(--other-white);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  text-align: center;
+  padding: 15px;
+}
+
+.selector{
+  margin: auto;
+  /* Optional: set a height for the container */
+  padding: 0.5rem;
+  border-color: var(--bright-color);
+  border-radius: 3px;
+  border-width: 2px;
+  color: var(--bright-color);
+  background-color: var(--light-color);
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  text-align: center;
+}
+.select-container{
+  background-color: var(--other-white);
+  margin-bottom: 20px;
+  display: flex;
+  padding: 0.5rem;
+  align-items: center;
+}
+.WebName{
+  font-size: 3vh;
+  color: var(--primary-color);
+  margin: 0.5vw auto;
+  padding: 0.5vw;
+  background-color:var(--other-white);
+  transition: 0.3s ease;
+  border-color: var(--bright-color);
+  border-style: solid;
+}
+.WebName:hover{
+  background-color: var(--bright-color);
+}
+@keyframes webName-an {
+  100%{
+    background-color: var(--bright-color);
+  }
+}
+a{
+  margin: auto;
+  align-content: center;
+  text-decoration: none;
+  background-color: var(--secondary-color);
+}
+:root {
+    --light-color: #F1F6F9;
+    --primary-color: #394867;
+    --secondary-color: #9BA4B5;
+    --bright-color: #212A3E;
+    --other-white: #F1F6F9;
+    --min-margin: 0.5rem;
+    --min-border: 0.5rem;
+    --max-border: 1rem;
+    --min-padding: 1rem;
+}
+
+.dark-image {
+  opacity: 0.95;
+}
+
+.cardBox {
+  width: max-content;
+  height: fit-content;
+  border-color: var(--other-white);
+  border-width: 5px;
+  border-style: solid;
+  margin: auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  justify-content: center; /* added to center the cards horizontally */
+  background-color: var(--light-color);
+}
+
+@media screen and (min-width: 768px) {
+  .cardBox {
+    grid-template-columns: repeat(2, minmax(200px, 1fr));
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  .cardBox {
+    grid-template-columns: repeat(4, minmax(200px, 1fr));
+  }
+}
+
+.card {
+    margin: 5px;
+    width: 190px;
+    height: 274px;
+    background: var(--primary-color);
+    padding: .4em;
+    border-radius: 6px;
+  }
+  
+  .card-image {
+    background-color: var(--secondary-color);
+    width: 100%;
+    height: 60%;
+    border-radius: 6px 6px 0 0;
+    display: flex;
+    align-items: center;
+  }
+  
+  .card-image:hover {
+    transform: scale(0.98);
+  }
+  
+  .category {
+    text-transform: uppercase;
+    font-size: 0.7em;
+    font-weight: 600;
+    color: var(--bright-color);
+    background-color: var(--primary-color);
+    padding: 10px 7px 0;
+  }
+  
+  .category:hover {
+    cursor: pointer;
+  }
+  
+  .heading {
+    font-weight: 600;
+    color: var(--light-color);
+    padding: 7px;
+    background-color: var(--primary-color);
+  }
+  
+  .heading:hover {
+    cursor: pointer;
+  }
+  
+  .author {
+    color: var(--bright-color);
+    font-weight: 400;
+    font-size: 7px;
+    padding-top: 20px;
+    background-color: var(--primary-color);
+  }
+  
+  .name {
+    font-weight: 600;
+    background-color: var(--primary-color);
+  }
+  
+  .name:hover {
+    cursor: pointer;
+  }
+  .ifc-box{
+    padding: 70px;
+    text-align: center;
+  }
+  .ifc-model{
+    width: 70vw;
+    height: 60vh;
+    border-style: solid;
+    border-color: var(--bright-color);
+    border-width: 5px;
+  }
+
+  .image{
+    width: 100px;
+    opacity: 1;
+    background-color: var(--secondary-color);
+    margin: auto;
+    
+  }
+  .image:hover{
+    animation: animate1 8s forwards ease-in-out;
+    animation-iteration-count: infinite;
+  }
+  .hidden {
+    display: none;
+  }
+  
+  @keyframes animate1{
+    25%{
+        transform: rotate(90deg);
+    }
+    50%{
+        transform: rotate(180deg);
+    }
+    75%{
+        transform: rotate(270deg);
+    }
+}
