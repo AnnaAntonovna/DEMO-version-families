@@ -1,0 +1,164 @@
+[
+  {
+    "Id": 0,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1HI_Hinged Door.png",
+    "Name": "CP-DR_1HI_Hinged Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1HI_Hinged Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1HI_Hinged Door.ifc"
+  },
+  {
+    "Id": 1,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1PI_Pivot Door.png",
+    "Name": "CP-DR_1PI_Pivot Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1PI_Pivot Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1PI_Pivot Door.ifc"
+  },
+  {
+    "Id": 2,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1SL_Sliding Door.png",
+    "Name": "CP-DR_1SL_Sliding Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1SL_Sliding Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_1SL_Sliding Door.ifc"
+  },
+  {
+    "Id": 3,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2HI_Hinged Door.png",
+    "Name": "CP-DR_2HI_Hinged Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2HI_Hinged Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2HI_Hinged Door.ifc"
+  },
+  {
+    "Id": 4,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2PI_Pivot Door.png",
+    "Name": "CP-DR_2PI_Pivot Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2PI_Pivot Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2PI_Pivot Door.ifc"
+  },
+  {
+    "Id": 5,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2SL_Sliding Door.png",
+    "Name": "CP-DR_2SL_Sliding Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2SL_Sliding Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP-DR_2SL_Sliding Door.ifc"
+  },
+  {
+    "Id": 6,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP.DR_1HI_Hinged Door.png",
+    "Name": "CP.DR_1HI_Hinged Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP.DR_1HI_Hinged Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP.DR_1HI_Hinged Door.ifc"
+  },
+  {
+    "Id": 7,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP.DR_2PI_Pivot Door.png",
+    "Name": "CP.DR_2PI_Pivot Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP.DR_2PI_Pivot Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\CP.DR_2PI_Pivot Door.ifc"
+  },
+  {
+    "Id": 8,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1HI_Hinger Door.png",
+    "Name": "DR_1HI_Hinger Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1HI_Hinger Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1HI_Hinger Door.ifc"
+  },
+  {
+    "Id": 9,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1PI_Pivot Door.png",
+    "Name": "DR_1PI_Pivot Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1PI_Pivot Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1PI_Pivot Door.ifc"
+  },
+  {
+    "Id": 10,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1SL_Sliding Door.png",
+    "Name": "DR_1SL_Sliding Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1SL_Sliding Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1SL_Sliding Door.ifc"
+  },
+  {
+    "Id": 11,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1UO_UpOver Door.png",
+    "Name": "DR_1UO_UpOver Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1UO_UpOver Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_1UO_UpOver Door.ifc"
+  },
+  {
+    "Id": 12,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2HI_Hinger Door.png",
+    "Name": "DR_2HI_Hinger Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2HI_Hinger Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2HI_Hinger Door.ifc"
+  },
+  {
+    "Id": 13,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2PI_Pivot Door.png",
+    "Name": "DR_2PI_Pivot Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2PI_Pivot Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2PI_Pivot Door.ifc"
+  },
+  {
+    "Id": 14,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2SL_Elevator Sliding Door.png",
+    "Name": "DR_2SL_Elevator Sliding Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2SL_Elevator Sliding Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2SL_Elevator Sliding Door.ifc"
+  },
+  {
+    "Id": 15,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2SL_Sliding Door.png",
+    "Name": "DR_2SL_Sliding Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2SL_Sliding Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_2SL_Sliding Door.ifc"
+  },
+  {
+    "Id": 16,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_4RE_Revolving Door.png",
+    "Name": "DR_4RE_Revolving Door",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_4RE_Revolving Door.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_4RE_Revolving Door.ifc"
+  },
+  {
+    "Id": 17,
+    "Category": "Doors",
+    "Version": "2021",
+    "ImagePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_Void.png",
+    "Name": "DR_Void",
+    "FilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_Void.rfa",
+    "IFCFilePath": "Z:\\Broscenco Petru\\Plugin Strategie Digitali\\01_Library\\Doors\\DR_Void.ifc"
+  }
+]
