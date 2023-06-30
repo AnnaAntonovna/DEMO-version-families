@@ -112,11 +112,21 @@ fetch("FamilesInfo.json")
     var pageDoc = document.implementation.createHTMLDocument();
 
     const viewerContainer = pageDoc.createElement("div");
+  
+    viewerContainer.style.position = 'fixed';
+    viewerContainer.style.top = '0';
+    viewerContainer.style.left = '0';
+    viewerContainer.style.outline = 'none';
+    viewerContainer.style.width = '50%';
+    viewerContainer.style.height = '50%';
+    viewerContainer.style.borderStyle = 'solid';
 
-    //const viewer = new IfcViewerAPI({ viewerContainer, backgroundColor: new Color(0xffafff) });
+    pageDoc.body.append(viewerContainer);
 
-    //viewer.grid.setGrid();
-    //viewer.axes.setAxes();
+    const viewer = new IfcViewerAPI({ viewerContainer, backgroundColor: new Color(0xffafff) });
+
+    viewer.grid.setGrid();
+    viewer.axes.setAxes();
 
     //pageDoc.body.appendChild(viewer);
 

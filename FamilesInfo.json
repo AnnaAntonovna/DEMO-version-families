@@ -129,7 +129,7 @@
     "Id": 3,
     "Category": "Windows",
     "Version": "2021",
-    "ImagePath": "../../../Windows/WN_VS.png",
+    "ImagePath": "./Windows/WN_VS.png",
     "Name": "WN_VS",
     "FilePath": "../../../Windows/WN_VS.rfa",
     "IFCFilePath": "../../../Windows/WN_VS.ifc"
@@ -138,7 +138,7 @@
     "Id": 4,
     "Category": "Windows",
     "Version": "2021",
-    "ImagePath": "../../../Windows/WN_VS_FivePanels.png",
+    "ImagePath": "./Windows/WN_VS_FivePanels.png",
     "Name": "WN_VS_FivePanels",
     "FilePath": "../../../Windows/WN_VS_FivePanels.rfa",
     "IFCFilePath": "../../../Windows/WN_VS_FivePanels.ifc"
@@ -148,7 +148,7 @@
     "Id": 0,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/CP-DR_1HI_Hinged Door.png",
+    "ImagePath": "./Doors/CP-DR_1HI_Hinged Door.png",
     "Name": "CP-DR_1HI_Hinged Door",
     "FilePath": "../../../Doors/CP-DR_1HI_Hinged Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_1HI_Hinged Door.ifc"
@@ -157,7 +157,7 @@
     "Id": 1,
     "Category": "Doors",
     "Version": "2021",
-    "ImagePath": "../../../Doors/CP-DR_1PI_Pivot Door.png",
+    "ImagePath": "./Doors/CP-DR_1PI_Pivot Door.png",
     "Name": "CP-DR_1PI_Pivot Door",
     "FilePath": "../../../Doors/CP-DR_1PI_Pivot Door.rfa",
     "IFCFilePath": "../../../Doors/CP-DR_1PI_Pivot Door.ifc"
