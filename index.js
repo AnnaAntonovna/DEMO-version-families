@@ -1,97 +1,75 @@
-import Drawing from "dxf-writer";
-import { Color, LineBasicMaterial, MeshBasicMaterial } from "three";
-import { IfcViewerAPI } from "web-ifc-viewer";
-
-const container = document.getElementById("viewer-container");
-const viewer = new IfcViewerAPI({
-  container,
-  backgroundColor: new Color(0xffffff),
-});
-
-// Create grid and axes
-viewer.grid.setGrid();
-viewer.axes.setAxes();
-
-let allPlans;
-let model;
-
-async function loadIfc(url) {
-  // Load the model
-  model = await viewer.IFC.loadIfcUrl(url);
-  // Add dropped shadow and post-processing efect
-  await viewer.shadowDropper.renderShadow(model.modelID);
-
-  viewer.dimensions.active = true;
-  viewer.dimensions.previewActive = true;
-
-  window.ondblclick = () => {
-    viewer.dimensions.create();
-  };
-
-  window.onkeydown = (event) => {
-    if (event.code == "Delete") {
-      viewer.dimensions.delete();
-    }
-  };
-}
-
-//loadIfc("./02.ifc");
-
-// Fetch the families.json file
 fetch("FamilesInfo.json")
   .then((response) => response.json())
   .then((data) => {
-    // The JSON data is available here
     var jsonData = data;
-
     var container = document.getElementById("card-container");
+    var selectElement = document.getElementById("category-select");
 
-    // Iterate over the JSON data
-    for (var i = 0; i < jsonData.length; i++) {
-      var family = jsonData[i];
+    // Function to filter cards by category
+    function filterCardsByCategory(category) {
+      // Clear the container
+      container.innerHTML = "";
 
-      const cardDiv = document.createElement("div");
-      cardDiv.className = "card";
+      jsonData.forEach((family) => {
+        if (family.Category === category || category === "All") {
+          const cardDiv = document.createElement("div");
+          cardDiv.className = "card";
+          cardDiv.setAttribute("data-category", family.Category);
 
-      // Create the card image div
-      const cardImageDiv = document.createElement("div");
-      cardImageDiv.className = "card-image";
+          const cardImageDiv = document.createElement("div");
+          cardImageDiv.className = "card-image";
 
-      // Create the image element
-      const imageElement = document.createElement("img");
-      imageElement.className = "image";
-      imageElement.src = family.ImagePath;
-      imageElement.alt = "";
+          const imageElement = document.createElement("img");
+          imageElement.className = "image";
+          imageElement.src = family.ImagePath;
+          imageElement.alt = "";
 
-      // Append the image to the card image div
-      cardImageDiv.appendChild(imageElement);
+          const categoryDiv = document.createElement("div");
+          categoryDiv.className = "category";
+          categoryDiv.textContent = family.Category;
 
-      // Create the category div
-      const categoryDiv = document.createElement("div");
-      categoryDiv.className = "category";
-      categoryDiv.textContent = family.Category;
+          const headingDiv = document.createElement("div");
+          headingDiv.className = "heading";
+          headingDiv.textContent = family.Name;
 
-      // Create the heading div
-      const headingDiv = document.createElement("div");
-      headingDiv.className = "heading";
-      headingDiv.textContent = family.Name;
+          const versionDiv = document.createElement("div");
+          versionDiv.className = "version";
+          versionDiv.textContent = "Revit " + family.Version;
 
-      // Create the version span
-      const versionSpan = document.createElement("span");
-      versionSpan.className = "name";
-      versionSpan.textContent = "Revit " + family.Version;
+          cardImageDiv.appendChild(imageElement);
+          cardDiv.appendChild(cardImageDiv);
+          cardDiv.appendChild(categoryDiv);
+          cardDiv.appendChild(headingDiv);
+          cardDiv.appendChild(versionDiv);
 
-      // Append the version span to the heading div
-      headingDiv.appendChild(versionSpan);
-
-      // Append all the elements to the card div
-      cardDiv.appendChild(cardImageDiv);
-      cardDiv.appendChild(categoryDiv);
-      cardDiv.appendChild(headingDiv);
-
-      // Append the card div to the container
-      container.appendChild(cardDiv);
+          container.appendChild(cardDiv);
+        }
+      });
     }
+
+    // Populate the dropdown list with unique categories
+    var categories = ["All"]; // Start with "All" option
+    jsonData.forEach((family) => {
+      if (!categories.includes(family.Category)) {
+        categories.push(family.Category);
+      }
+    });
+
+    categories.forEach((category) => {
+      var option = document.createElement("option");
+      option.value = category;
+      option.textContent = category;
+      selectElement.appendChild(option);
+    });
+
+    // Event listener for category changes
+    selectElement.addEventListener("change", function () {
+      var selectedCategory = this.value;
+      filterCardsByCategory(selectedCategory);
+    });
+
+    // Initially, show all cards
+    filterCardsByCategory("All");
   })
   .catch((error) => {
     console.error("Error fetching families.json:", error);

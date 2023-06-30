@@ -12,16 +12,20 @@
         <div id="viewer-container"></div>
         <div id="button-container"></div>
 
+        <div id="search-container">
+            <label for="category-select">Select Category:</label>
+            <select id="category-select"></select>
+        </div>
+
         <div class="cardBox" id="card-container">
-            <a href="..." class="card">
+            <a href="..." class="card" style="display: none;">
                 <div class="card-image">
                     <img class="image" src="JSONImageLink" alt />
                 </div>
                 <div class="category">Category from JSON</div>
                 <div class="heading">
-                    Name from JSON
-                    <div class="version">Revit <span class="name">version from JSON</span></div>
-                </div>
+                    Name from JSON</div>
+                <div class="version">Revit <span class="name">version from JSON</span></div>
             </a>
             <script src="bundle.js"></script>
         </body>

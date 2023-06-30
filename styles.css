@@ -9,7 +9,6 @@
 }
 
 html, body {
-    overflow: hidden;
 }
 
 
@@ -40,7 +39,7 @@ html, body {
 .header{
     width: 30%;
   }
-  nav{
+  .nav{
     margin: auto;
     display: flex;
     align-self: center;
@@ -126,7 +125,7 @@ html, body {
   .dark-image {
     opacity: 0.95;
   }
-  
+
   .cardBox {
     width: max-content;
     height: fit-content;
@@ -162,7 +161,7 @@ html, body {
     }
     
     .card-image {
-      background-color: var(--secondary-color);
+      background-color: white;
       width: 100%;
       height: 60%;
       border-radius: 6px 6px 0 0;
@@ -172,6 +171,14 @@ html, body {
     
     .card-image:hover {
       transform: scale(0.98);
+    }
+    .version{
+        text-transform: uppercase;
+        margin-top: 10px;
+        color: var(--secondary-color);
+        background-color: var(--bright-color);
+        font-size: 10px;
+        padding: 7px;
     }
     
     .category {
@@ -189,9 +196,12 @@ html, body {
     
     .heading {
       font-weight: 600;
+      max-width: 160px;
+      font-size: small;
       color: var(--light-color);
       padding: 7px;
       background-color: var(--primary-color);
+      word-wrap: break-word;
     }
     
     .heading:hover {
@@ -227,7 +237,8 @@ html, body {
     }
   
     .image{
-      width: 100px;
+        max-width: 90%;
+        max-height: 90%;
       opacity: 1;
       background-color: var(--secondary-color);
       margin: auto;
